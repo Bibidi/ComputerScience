@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="DISPLAY_NOTIFICATION_POPUP" value="false" />
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+  </component>
+  <component name="ProjectId" id="1cpISQUM09ByuUdFuZme2xihyNZ" />
+  <component name="PropertiesComponent">
+    <property name="ToolWindowMessages.ShowToolbar" value="false" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.RandomInt">
+    <configuration name="CMYKtoRGB" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="CMYKtoRGB" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="1.0 0.58 0.0 0.33" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GreatCircle" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="GreatCircle" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="40.35 74.65 48.87 -2.33" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HelloGoodbye" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="HelloGoodbye" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="A B" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="COS 126" />
+      <method v="2" />
+    </configuration>
+    <configuration name="IntOps" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="IntOps" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="12 5" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LeapYear" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="LeapYear" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P01" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P01" />
+      <module name="COS 126" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P02" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P02" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="3.14592" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P07" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P07" />
+      <module name="COS 126" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P09" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P09" />
+      <module name="COS 126" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P10" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P10" />
+      <module name="COS 126" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P11" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P11" />
+      <module name="COS 126" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P13" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P13" />
+      <module name="COS 126" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P14" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P14" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="1000 107" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P15" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P15" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="13 7 8" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P16" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P16" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="100 200 7.14" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P17" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P17" />
+      <module name="COS 126" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P18" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P18" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="5 6" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P19" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P19" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="3 5" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P20" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P20" />
+      <module name="COS 126" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P21" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P21" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="3" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P22" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P22" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="10 9 1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P23" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P23" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="3 31" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P24" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P24" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="1000 0.2 5" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P25" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P25" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="50 7" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P26" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P26" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="-1 0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P27" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P27" />
+      <module name="COS 126" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P28" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P28" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="2 1 3" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P29" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P29" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="4 22 1993" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P30" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P30" />
+      <module name="COS 126" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P31" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P31" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="30 60 10" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P32" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P32" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="100 10 15" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P33" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P33" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="48.87 -2.33 37.8 122.4" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P34" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P34" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="199 285 100" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P35" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="P35" />
+      <module name="COS 126" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Quadratic" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Quadratic" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="1 1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RandomInt" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RandomInt" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="1000" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RightTriangle" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RightTriangle" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="71452672 38644624 21616" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ruler" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Ruler" />
+      <module name="COS 126" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+</project>

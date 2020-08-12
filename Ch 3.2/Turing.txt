@@ -1,0 +1,7 @@
+Turing, Alan
+10.24
+4
+100 ES=F
+ 25 RTY=F
+ 97 GC=F
+250 NQ=F
